@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Scholarships",
+        "key": 1,
+        "catageory": "For Brilliant",
+        "price": 0,
+        "duration": "12 Month",
+        "img": "https://media.istockphoto.com/photos/scholarship-concept-on-chalkboard-picture-id638784204?b=1&k=20&m=638784204&s=170667a&w=0&h=MkgRQaUaPKg9tqvRY-LEsoM2rjiVHEvkiWshIuQSc-w="
+    },
+    {
+        "name": "School Bus",
+        "key": 2,
+        "catageory": "For All Student",
+        "price": 460,
+        "duration": "3 Month",
+        "img": "https://images.unsplash.com/photo-1583508805133-8fd03a9916d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2Nob29sJTIwYnVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Best Teacher",
+        "key": 3,
+        "catageory": "For All Student",
+        "price": 1200,
+        "duration": "5 Month",
+        "img": "https://images.unsplash.com/photo-1573496799652-408c2ac9fe98?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRlYWNoZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Arrange Exam",
+        "key": 4,
+        "catageory": "For All Student",
+        "price": 900,
+        "duration": "3 Month",
+        "img": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZXhhbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Classrom",
+        "key": 5,
+        "catageory": "For All Student",
+        "price": 400,
+        "duration": "2 Month",
+        "img": "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xhc3Nyb29tfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Health Services",
+        "key": 6,
+        "catageory": "For All Student and Staff",
+        "price": 300,
+        "duration": "3 Month",
+        "img": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGhlYWx0aGNhcmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Quality Food",
+        "key": 7,
+        "catageory": "For All student ,Staff,Tecaher",
+        "price": 290,
+        "duration": "1 Month",
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Clam and quite Library",
+        "key": 8,
+        "catageory": "For All Student",
+        "price": 700,
+        "duration": "6 Month",
+        "img": "https://images.unsplash.com/photo-1549383028-df014fa3a325?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxpYnJhcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Best Security",
+        "key": 9,
+        "catageory": "For All Student",
+        "price": 200,
+        "duration": "12 Month",
+        "img": "https://images.unsplash.com/photo-1485230405346-71acb9518d9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2VjdXJpdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Computer lab",
+        "key": 10,
+        "catageory": "For All Student",
+        "price": 500,
+        "duration": "1 Month",
+        "img": "https://images.unsplash.com/photo-1569653402334-2e98fbaa80ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBsYWJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Playing Ground",
+        "key": 11,
+        "catageory": "For All Student",
+        "price": 300,
+        "duration": "12 Month",
+        "img": "https://images.unsplash.com/photo-1526232636376-53d03f24f092?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHBsYXlpbmclMjBmaWVsZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]

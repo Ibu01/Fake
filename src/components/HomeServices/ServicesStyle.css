@@ -1,0 +1,24 @@
+.services-style{
+    border: 2px solid rgb(209, 206, 192);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.services-style img{
+    width: 100%;
+    height: 300px;
+}
+.admission-button{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+.quires{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(233, 124, 97);
+    margin-left: 5px;
+}

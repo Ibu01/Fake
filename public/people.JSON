@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Best Techer",
+        "price": 500,
+        "key": 1,
+        "catageory": "Premimum",
+        "img": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVhY2hlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Best Library",
+        "price": 750,
+        "key": 2,
+        "catageory": "Premimum",
+        "img": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlicmFyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Best Environmet",
+        "price": 1500,
+        "key": 3,
+        "catageory": "Premimum",
+        "img": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJlYWRpbmclMjBlbnZpcm9ubWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Best Classroom",
+        "price": 1200,
+        "key": 4,
+        "catageory": "Premimum",
+        "img": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2xhc3Nyb29tfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]

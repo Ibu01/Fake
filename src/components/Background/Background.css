@@ -1,0 +1,31 @@
+.back-container{
+    text-align: center;
+}
+.back-container h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.bg-image{
+    background-image: url('../../school.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 85%;
+    height: 500px;
+    margin: 0 auto;
+}
+.bg-image h1{
+    position: relative;
+    top: 40%;
+    color: goldenrod
+}
+.navLink-btn{
+    text-decoration: none;
+    background-color: hotpink;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    position: relative;
+    top: 50%;
+}
